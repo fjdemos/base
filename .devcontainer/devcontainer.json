@@ -12,5 +12,6 @@
   "settings": {
     "python.defaultInterpreterPath": "/usr/local/bin/python",
     "python.linting.enabled": true
-  }
+  },
+  "postCreateCommand": "pip install matplotlib"
 }
